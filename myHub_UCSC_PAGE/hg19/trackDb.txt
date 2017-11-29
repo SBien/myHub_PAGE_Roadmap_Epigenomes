@@ -2,7 +2,7 @@
 track Overlay_Enhancer_H3K27ac
 type bigWig
 container multiWig
-shortLabel Enhancer
+shortLabel Enhancer Layered
 longLabel This overlay track graphs signal from four H3K27ac bigWig for normal colon crypt cells
 visibility full
 aggregate transparentOverlay
@@ -88,5 +88,98 @@ bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImpu
 shortLabel Spleen
 longLabel Spleen_H3K27ac
 parent Overlay_Enhancer_H3K27ac
+type bigWig
+color 208,213,234
+
+################################################
+track Overlay_Repressor_H3K27me3
+type bigWig
+container multiWig
+shortLabel Repressor Layered
+longLabel This overlay track graphs signal from four H3K27me3 bigWig for normal colon crypt cells
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+maxHeightPixels 150:30:11
+viewLimits 1:20
+priority 1
+
+track CD3_Primary_Cells_Peripheral_UW_H3K27me3
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E034-H3K27me3.imputed.pval.signal.bigwig
+shortLabel CD3_Primary
+longLabel CD3_Primary_H3K27me3
+parent Overlay_Repressor_H3K27me3
+type bigWig
+color 155,195,211
+
+track CD14_Primary_Cells_H3K27me3
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E029-H3K27me3.imputed.pval.signal.bigwig
+shortLabel CD14_Primary
+longLabel CD14_Primary_H3K27me3
+parent Overlay_Repressor_H3K27me3
+type bigWig
+color 195,211,155
+
+track CD34_Cultured_Cells_H3K27me3
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E036-H3K27me3.imputed.pval.signal.bigwig
+shortLabel CD34_Cultured
+longLabel CD34_Cultured_H3K27me3
+parent Overlay_Repressor_H3K27me3
+type bigWig
+color 250,225,149
+
+track CD19_Primary_Cells_Peripheral_UW_H3K27me3
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E032-H3K27me3.imputed.pval.signal.bigwig
+shortLabel CD19_Primary
+longLabel CD19_Primary_H3K27me3
+parent Overlay_Repressor_H3K27me3
+type bigWig
+color 200,219,222
+
+track Brain_Hippocampus_Middle_H3K27me3
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E071-H3K27me3.imputed.pval.signal.bigwig
+shortLabel Brain_Hippocampus
+longLabel Brain_Hippocampus_Middle_H3K27me3
+parent Overlay_Repressor_H3K27me3
+type bigWig
+color 226,219,190
+
+track Aorta_H3K27me3
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E065-H3K27me3.imputed.pval.signal.bigwig
+shortLabel Aorta
+longLabel Aorta_H3K27me3
+parent Overlay_Repressor_H3K27me3
+type bigWig
+color 234,208,213
+
+track Fetal_Kidney_H3K27me3
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E086-H3K27me3.imputed.pval.signal.bigwig
+shortLabel Fetal_Kidney
+longLabel Fetal_Kidney_H3K27me3
+parent Overlay_Repressor_H3K27me3
+type bigWig
+color 213,217,217
+
+track Pancreatic_Islets_H3K27me3
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E087-H3K27me3.imputed.pval.signal.bigwig
+shortLabel Pancreatic_Islets
+longLabel Pancreatic_Islets_H3K27me3
+parent Overlay_Repressor_H3K27me3
+type bigWig
+color 229,208,234
+
+track Adult_Liver_H3K27me3
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E066-H3K27me3.imputed.pval.signal.bigwig
+shortLabel Adult_Liver
+longLabel Adult_Liver_H3K27me3
+parent Overlay_Repressor_H3K27me3
+type bigWig
+color 208,234,229
+
+track Spleen_H3K27me3
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E133-H3K27me3.imputed.pval.signal.bigwig
+shortLabel Spleen
+longLabel Spleen_H3K27me3
+parent Overlay_Repressor_H3K27me3
 type bigWig
 color 208,213,234
