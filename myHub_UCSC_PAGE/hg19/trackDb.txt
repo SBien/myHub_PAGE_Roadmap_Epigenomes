@@ -17,7 +17,7 @@ shortLabel CD3_Primary
 longLabel CD3_Primary_H3K27ac
 parent Overlay_Enhancer_H3K27ac
 type bigWig
-color 85,163,84
+color 155,195,211
 
 track CD14_Primary_Cells_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E029-H3K27ac.imputed.pval.signal.bigwig
@@ -25,7 +25,7 @@ shortLabel CD14_Primary
 longLabel CD14_Primary_H3K27ac
 parent Overlay_Enhancer_H3K27ac
 type bigWig
-color 103,140,105
+color 195,211,155
 
 track CD34_Cultured_Cells_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E036-H3K27ac.imputed.pval.signal.bigwig
@@ -33,7 +33,7 @@ shortLabel CD34_Cultured
 longLabel CD34_Cultured_H3K27ac
 parent Overlay_Enhancer_H3K27ac
 type bigWig
-color 147,174,150
+color 250,225,149
 
 track CD19_Primary_Cells_Peripheral_UW_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E032-H3K27ac.imputed.pval.signal.bigwig
@@ -41,7 +41,7 @@ shortLabel CD19_Primary
 longLabel CD19_Primary_H3K27ac
 parent Overlay_Enhancer_H3K27ac
 type bigWig
-color 152,188,193
+color 200,219,222
 
 track Brain_Hippocampus_Middle_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E071-H3K27ac.imputed.pval.signal.bigwig
@@ -49,7 +49,7 @@ shortLabel Brain_Hippocampus
 longLabel Brain_Hippocampus_Middle_H3K27ac
 parent Overlay_Enhancer_H3K27ac
 type bigWig
-color 197,145,43
+color 226,219,190
 
 track Aorta_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E065-H3K27ac.imputed.pval.signal.bigwig
@@ -57,7 +57,7 @@ shortLabel Aorta
 longLabel Aorta_H3K27ac
 parent Overlay_Enhancer_H3K27ac
 type bigWig
-color 213,111,128
+color 234,208,213
 
 track Fetal_Kidney_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E086-H3K27ac.imputed.pval.signal.bigwig
@@ -65,7 +65,7 @@ shortLabel Fetal_Kidney
 longLabel Fetal_Kidney_H3K27ac
 parent Overlay_Enhancer_H3K27ac
 type bigWig
-color 197,141,170
+color 213,217,217
 
 track Pancreatic_Islets_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E087-H3K27ac.imputed.pval.signal.bigwig
@@ -73,7 +73,7 @@ shortLabel Pancreatic_Islets
 longLabel Pancreatic_Islets_H3K27ac
 parent Overlay_Enhancer_H3K27ac
 type bigWig
-color 105,96,138
+color 229,208,234
 
 track Adult_Liver_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E066-H3K27ac.imputed.pval.signal.bigwig
@@ -81,7 +81,7 @@ shortLabel Adult_Liver
 longLabel Adult_Liver_H3K27ac
 parent Overlay_Enhancer_H3K27ac
 type bigWig
-color 65,120,174
+color 208,234,229
 
 track Spleen_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E133-H3K27ac.imputed.pval.signal.bigwig
@@ -89,5 +89,4 @@ shortLabel Spleen
 longLabel Spleen_H3K27ac
 parent Overlay_Enhancer_H3K27ac
 type bigWig
-color 153,153,153
-
+color 208,213,234
