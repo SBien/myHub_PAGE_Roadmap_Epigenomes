@@ -610,6 +610,14 @@ parent DHS_tracks
 type bigWig
 color 234,208,213
 
+track E083_FetalHeart_DNase
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidated/macs2signal/pval/E083-DNase.pval.signal.bigwig
+shortLabel E083_FetalHeart
+longLabel E083_FetalHeart_Dhs
+parent DHS_tracks
+type bigWig
+color 210,155,166
+
 track E086_Fetal_Kidney_DNase
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E086-DNase.imputed.pval.signal.bigwig
 shortLabel E086_F.Kdny_Dhs
