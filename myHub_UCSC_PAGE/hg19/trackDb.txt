@@ -293,7 +293,7 @@ viewLimits 1:20
 priority 4
 
 track CD3_Primary_Cells_Peripheral_UW_Dhs
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/Dhs/E034-DNase.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E034-DNase.imputed.pval.signal.bigwig
 shortLabel CD3_Primary
 longLabel CD3_Primary_Dhs
 parent Overlay_Accessibl_Dhs
@@ -301,7 +301,7 @@ type bigWig
 color 155,195,211
 
 track CD14_Primary_Cells_Dhs
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/Dhs/E029-DNase.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E029-DNase.imputed.pval.signal.bigwig
 shortLabel CD14_Primary
 longLabel CD14_Primary_Dhs
 parent Overlay_Accessibl_Dhs
@@ -309,7 +309,7 @@ type bigWig
 color 195,211,155
 
 track CD34_Cultured_Cells_Dhs
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/Dhs/E036-DNase.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E036-DNase.imputed.pval.signal.bigwig
 shortLabel CD34_Cultured
 longLabel CD34_Cultured_Dhs
 parent Overlay_Accessibl_Dhs
@@ -317,7 +317,7 @@ type bigWig
 color 250,225,149
 
 track CD19_Primary_Cells_Peripheral_UW_Dhs
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/Dhs/E032-DNase.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E032-DNase.imputed.pval.signal.bigwig
 shortLabel CD19_Primary
 longLabel CD19_Primary_Dhs
 parent Overlay_Accessibl_Dhs
@@ -325,7 +325,7 @@ type bigWig
 color 200,219,222
 
 track Brain_Hippocampus_Middle_Dhs
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/Dhs/E071-DNase.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E071-DNase.imputed.pval.signal.bigwig
 shortLabel Brain_Hippocampus
 longLabel Brain_Hippocampus_Middle_Dhs
 parent Overlay_Accessibl_Dhs
@@ -333,7 +333,7 @@ type bigWig
 color 226,219,190
 
 track Aorta_Dhs
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/Dhs/E065-DNase.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E065-DNase.imputed.pval.signal.bigwig
 shortLabel Aorta
 longLabel Aorta_Dhs
 parent Overlay_Accessibl_Dhs
@@ -341,7 +341,7 @@ type bigWig
 color 234,208,213
 
 track Fetal_Kidney_Dhs
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/Dhs/E086-DNase.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E086-DNase.imputed.pval.signal.bigwig
 shortLabel Fetal_Kidney
 longLabel Fetal_Kidney_Dhs
 parent Overlay_Accessibl_Dhs
@@ -349,7 +349,7 @@ type bigWig
 color 213,217,217
 
 track Pancreatic_Islets_Dhs
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/Dhs/E087-DNase.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E087-DNase.imputed.pval.signal.bigwig
 shortLabel Pancreatic_Islets
 longLabel Pancreatic_Islets_Dhs
 parent Overlay_Accessibl_Dhs
@@ -357,7 +357,7 @@ type bigWig
 color 229,208,234
 
 track Adult_Liver_Dhs
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/Dhs/E066-DNase.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E066-DNase.imputed.pval.signal.bigwig
 shortLabel Adult_Liver
 longLabel Adult_Liver_Dhs
 parent Overlay_Accessibl_Dhs
@@ -365,7 +365,7 @@ type bigWig
 color 208,234,229
 
 track Spleen_Dhs
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/Dhs/E133-DNase.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E133-DNase.imputed.pval.signal.bigwig
 shortLabel Spleen
 longLabel Spleen_Dhs
 parent Overlay_Accessibl_Dhs
